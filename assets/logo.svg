@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Máxima Contábil">
+  <circle cx="60" cy="60" r="58" fill="#ffffff" stroke="#15314f" stroke-width="3.5"/>
+  <circle cx="60" cy="60" r="50" fill="none" stroke="#15314f" stroke-width="1.4" opacity="0.55"/>
+  <!-- barras ascendentes (crescimento) -->
+  <rect x="24" y="64" width="9" height="22" rx="1.5" fill="#3a6ea0"/>
+  <rect x="35" y="54" width="9" height="32" rx="1.5" fill="#15314f"/>
+  <!-- M monumental formado pelas colunas -->
+  <path fill="#15314f" d="M48 86V40h8.5l7.5 15.5L71.5 40H80v46h-8.5V58.6l-5.4 10.9h-4.2L56.5 58.6V86z"/>
+  <!-- degraus / estabilidade na base -->
+  <rect x="24" y="90" width="56" height="4" rx="2" fill="#15314f"/>
+  <rect x="33" y="97" width="38" height="3" rx="1.5" fill="#3a6ea0" opacity="0.8"/>
+  <!-- seta verde pra cima (crescimento) -->
+  <path fill="#4e9d4a" d="M78 48l10-10 10 10h-6v9h-8v-9z" transform="translate(-6 -6)"/>
+</svg>

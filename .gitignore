@@ -1,0 +1,8 @@
+# Notas internas do processo (brief, pesquisa, júri, relatório) — não publicar
+.site-agent/
+# Dumps de ferramenta (playwright) — internos
+.playwright-cli/
+
+# Sistema
+Thumbs.db
+.DS_Store
